@@ -16,7 +16,7 @@ Contenido del repositorio:
 * prueba.py (Ejecuta calcula los tiempos)
 * py_orbita.py (algoritmo en python)
 * cy_orita.pyx (algoritmo en cython)
-* Cython vs Python (PDF)
+* Cython_vs_Python.pdf (Desarrolo de la actividad)
 
 Notas:
 
